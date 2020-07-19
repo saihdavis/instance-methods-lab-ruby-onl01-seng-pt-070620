@@ -1,3 +1,5 @@
-def dog 
+class Dog 
+  def bark
+    
   
 end
